@@ -1,0 +1,7 @@
+<meta>
+    <info author="Furkan" name="Dalgıç Sistemi" type="script" version="1.0.0" />
+	<file src='Dosyalar/1.txd' />
+	<file src='Dosyalar/2.dff' />
+	<file src='Dosyalar/splash.mp3' />
+	<script src="underw_C.lua" type="client"/>
+</meta>
